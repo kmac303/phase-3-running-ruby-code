@@ -4,9 +4,11 @@
 #     { id: 4, hello: "Learner" }]
 
 # p [1,2,3]
-# puts "Hello World!"
+print "Pass this test, please."
 # print "Pass this test, please."
-# p [1,2,3]
+puts "Hello World!" 
+
+p [1,2,3]
 
 # def add
     
